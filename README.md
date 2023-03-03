@@ -28,4 +28,6 @@ https://viblo.asia/p/tim-hieu-ve-swagger-de-viet-api-XL6lAwbAKek
 <br>
 https://editor.swagger.io/
 <br>
+CRUD bảng `products:`
+<br>
 https://docs.google.com/document/d/1UVLjEJyz_KGpQcLtm8XPAwxNz9-_NppglqcDPmLtTp4/edit?usp=sharing
