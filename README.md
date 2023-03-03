@@ -24,6 +24,8 @@ Link Swagger UI test API: `{url}/api/documentation`
 ## Nội dung file `api-docs.yaml`
 Tài liệu tham khảo:
 <br>
+https://github.com/DarkaOnLine/L5-Swagger
+<br>
 https://viblo.asia/p/tim-hieu-ve-swagger-de-viet-api-XL6lAwbAKek
 <br>
 https://editor.swagger.io/
